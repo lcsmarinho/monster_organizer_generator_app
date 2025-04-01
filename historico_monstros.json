@@ -1,0 +1,28 @@
+[
+    {
+        "id": "teste",
+        "foto": "assets/images/ecos-logo.png",
+        "nome": "teste",
+        "tipo": "teste",
+        "alinhamento": "teste",
+        "classeArmadura": "teste",
+        "pontosVida": "teste",
+        "deslocamento": "teste",
+        "forca": "teste",
+        "destreza": "teste",
+        "constituição": "teste",
+        "inteligencia": "teste",
+        "sabedoria": "testet",
+        "carisma": "teste",
+        "pericias": "teste",
+        "sentidos": "teste",
+        "idiomas": "teste",
+        "nivelDesafio": "teste",
+        "ataques": [
+            "teste: teste"
+        ],
+        "ações": [
+            "teste: test"
+        ]
+    }
+]

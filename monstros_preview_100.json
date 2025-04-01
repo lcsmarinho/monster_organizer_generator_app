@@ -1,0 +1,132 @@
+[
+  {
+    "id": "acolyte",
+    "foto": "assets/images/ecos-logo.png",
+    "nome": "Acolyte",
+    "tipo": "Humanoide (qualquer raça)",
+    "alinhamento": "Qualquer alinhamento",
+    "classeArmadura": "10",
+    "pontosVida": "9 (2d8)",
+    "deslocamento": "30 pés",
+    "forca": "10",
+    "destreza": "10",
+    "constituição": "10",
+    "inteligencia": "10",
+    "sabedoria": "14",
+    "carisma": "11",
+    "pericias": "Religião +2, Intuição +4",
+    "sentidos": "Percepção passiva 12",
+    "idiomas": "Qualquer dois idiomas",
+    "nivelDesafio": "1/4",
+    "ataques": [
+      "Bordão: +2 para atingir, alcance 5 pés, um alvo. Dano: 3 (1d6) contundente"
+    ],
+    "ações": [
+      "Ataque: O acolyte ataca com seu bordão."
+    ]
+  },
+  {
+    "id": "giant_rat",
+    "foto": "assets/images/ecos-logo.png",
+    "nome": "Giant Rat",
+    "tipo": "Bestial",
+    "alinhamento": "Não-alinhado",
+    "classeArmadura": "12",
+    "pontosVida": "7 (2d6)",
+    "deslocamento": "30 pés",
+    "forca": "7",
+    "destreza": "15",
+    "constituição": "11",
+    "inteligencia": "2",
+    "sabedoria": "10",
+    "carisma": "4",
+    "pericias": "Furtividade +2",
+    "sentidos": "Visão no escuro 60 pés, Percepção passiva 10",
+    "idiomas": "—",
+    "nivelDesafio": "1/8",
+    "ataques": [
+      "Mordida: +4 para atingir, alcance 5 pés, um alvo. Dano: 4 (1d4 + 2) perfurante"
+    ],
+    "ações": [
+      "Ataque: A giant rat ataca com sua mordida."
+    ]
+  },
+  {
+    "id": "gnome_commoner",
+    "foto": "assets/images/ecos-logo.png",
+    "nome": "Gnome Commoner",
+    "tipo": "Humanoide (gnomo)",
+    "alinhamento": "Qualquer",
+    "classeArmadura": "10",
+    "pontosVida": "4 (1d6 + 1)",
+    "deslocamento": "25 pés",
+    "forca": "8",
+    "destreza": "10",
+    "constituição": "12",
+    "inteligencia": "10",
+    "sabedoria": "10",
+    "carisma": "9",
+    "pericias": "Nenhuma",
+    "sentidos": "Visão no escuro 60 pés, Percepção passiva 10",
+    "idiomas": "Comum, Gnômico",
+    "nivelDesafio": "0",
+    "ataques": [
+      "Cajado: +1 para atingir, alcance 5 pés, um alvo. Dano: 2 (1d6 - 1) contundente"
+    ],
+    "ações": [
+      "Ataque: O gnome commoner ataca com seu cajado."
+    ]
+  },
+  {
+    "id": "orc",
+    "foto": "assets/images/ecos-logo.png",
+    "nome": "Orc",
+    "tipo": "Humanoide (orc)",
+    "alinhamento": "Caótico Mau",
+    "classeArmadura": "13 (armadura de couro)",
+    "pontosVida": "15 (2d8 + 6)",
+    "deslocamento": "30 pés",
+    "forca": "16",
+    "destreza": "12",
+    "constituição": "16",
+    "inteligencia": "7",
+    "sabedoria": "11",
+    "carisma": "10",
+    "pericias": "Intimidação +2",
+    "sentidos": "Visão no escuro 60 pés, Percepção passiva 10",
+    "idiomas": "Orc, Comum",
+    "nivelDesafio": "1/2",
+    "ataques": [
+      "Machado grande: +5 para atingir, alcance 5 pés, um alvo. Dano: 9 (1d12 + 3) cortante"
+    ],
+    "ações": [
+      "Ataque: O orc ataca com seu machado grande."
+    ]
+  },
+  {
+    "id": "shadow",
+    "foto": "assets/images/ecos-logo.png",
+    "nome": "Shadow",
+    "tipo": "Não-morto",
+    "alinhamento": "Caótico Mau",
+    "classeArmadura": "12",
+    "pontosVida": "16 (3d8 + 3)",
+    "deslocamento": "40 pés",
+    "forca": "6",
+    "destreza": "14",
+    "constituição": "13",
+    "inteligencia": "6",
+    "sabedoria": "10",
+    "carisma": "8",
+    "pericias": "Furtividade +4",
+    "sentidos": "Visão no escuro 60 pés, Percepção passiva 10",
+    "idiomas": "Entende Comum, mas não fala",
+    "nivelDesafio": "1/2",
+    "ataques": [
+      "Toque de Sombra: +4 para atingir, alcance 5 pés, um alvo. Dano: 9 (2d6 + 2) necrótico"
+    ],
+    "ações": [
+      "Ataque: O shadow ataca com seu toque de sombra."
+    ]
+  }
+]
